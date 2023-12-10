@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.620869a4.css",
+    "main.js": "/static/js/main.9e4a8ab6.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/1701944255780ahadess-and-sunnah.webp": "/static/media/1701944255780ahadess-and-sunnah.3da78a3c36c6bda2044e.webp",
+    "static/media/1701898956000carousel1.webp": "/static/media/1701898956000carousel1.ac9a091909e58446d017.webp",
+    "static/media/17018987252142.webp": "/static/media/17018987252142.983fa0296ab7c6e46170.webp",
+    "static/media/1701942327885quranTranslation.webp": "/static/media/1701942327885quranTranslation.355eb23cfd4e14adfda2.webp",
+    "static/media/1701942497797hifz-quran.webp": "/static/media/1701942497797hifz-quran.07fbd706d28742030283.webp",
+    "static/media/1701941910189course1.webp": "/static/media/1701941910189course1.9997d18240631f902269.webp",
+    "static/media/1701944645526arabic-language.webp": "/static/media/1701944645526arabic-language.fd6255a9d3666c6885a4.webp",
+    "static/media/1701944451565namaz-and-dua.webp": "/static/media/1701944451565namaz-and-dua.3ff4df96a875d45d59ac.webp",
+    "static/media/1701897859375carousel3.webp": "/static/media/1701897859375carousel3.e77dfbdc82c6c9744ef5.webp",
+    "static/media/logo.webp": "/static/media/logo.f0b46cc5aa892088e57a.webp",
+    "static/media/1701898218837carousel4.webp": "/static/media/1701898218837carousel4.5434bf8be9ea87b9ff05.webp",
+    "index.html": "/index.html",
+    "main.620869a4.css.map": "/static/css/main.620869a4.css.map",
+    "main.9e4a8ab6.js.map": "/static/js/main.9e4a8ab6.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.620869a4.css",
+    "static/js/main.9e4a8ab6.js"
+  ]
+}
